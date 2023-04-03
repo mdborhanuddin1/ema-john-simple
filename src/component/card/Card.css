@@ -1,0 +1,9 @@
+
+.card-info{
+    margin: 23px;
+    position: sticky;
+    top: 0;
+}
+.card-info h3{
+    text-align: center;
+}
